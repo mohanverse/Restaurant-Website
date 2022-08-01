@@ -1,6 +1,6 @@
 # Restaurant-Website
 
-# Project1 | Restaurant-Website <a><button name="button" style = "color: red" onclick="https:">`HTML CSS` project1</button></a>
+# Project 2 | Restaurant-Website <a><button name="button" style = "color: red" onclick="https:">`HTML CSS` project1</button></a>
 # By mohanverse
 
 # Live Link-: [Trend-in-2025](Trend-in-2025)
